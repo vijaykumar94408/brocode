@@ -1,0 +1,12 @@
+body{
+    display: grid; /* Enables Grid layout */
+    place-items: center; /* Centers both horizontally and vertically */
+   /* Sets the height of the body to the full viewport */
+    margin: 0; /* Removes default margins */
+    text-align: center;
+    
+}
+#result{
+    font-size: 100px;
+    background: linear-gradient(to bottom, #ff0000, #00ff00);
+}

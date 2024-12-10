@@ -1,0 +1,11 @@
+body{
+   color: black;
+    text-align: center;
+    justify-items: center;
+    background:linear-gradient(to right, #e02121, #2b13e2);
+}
+#result{
+    background-color: white;
+    margin: 30px;
+    padding: 20px;
+}

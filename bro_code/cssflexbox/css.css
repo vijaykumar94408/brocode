@@ -1,0 +1,75 @@
+#parent-div{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+    border:  5px solid #896969;
+    justify-content: end;
+    align-items: end;
+    background-color: #896969;
+    
+    
+}
+
+.child{
+    width: 50px;
+    height: 50px;
+}
+#c1{
+    background-color: #FF0000;
+    
+   
+    
+}
+#c2{
+    background-color: #896969;
+    
+
+    
+    
+   
+}
+#c3{
+    background-color: #3d3333;
+   
+    
+   
+    
+}
+#c4{
+    background-color: #FF0000;
+  
+    
+}
+#c5{
+    background-color: #896969;
+    
+}
+#c6{
+    background-color: #3d3333;
+    
+}
+#c7{
+    background-color: #FF0000;
+    
+}
+#c8{
+    background-color: #896969;
+    
+}
+#c9{
+    background-color: #3d3333;
+    
+}
+#c10{
+    background-color: #FF0000;
+    
+}
+#c11{
+    background-color: #896969;
+    
+}
+#c12{
+    background-color: #3d3333;
+    
+}

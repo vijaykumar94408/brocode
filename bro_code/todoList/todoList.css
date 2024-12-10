@@ -1,0 +1,15 @@
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+   
+  
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(79,64,122,1) 35%, rgba(0,212,255,1) 100%);
+}
+#container1{
+    text-align: center;
+    margin: 0 auto;
+    border: 5px solid rgb(205, 147, 60);
+
+}

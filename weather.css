@@ -1,0 +1,19 @@
+body{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    margin: 30px;
+    
+    background-color: rgb(21, 24, 23);
+    padding-bottom: 20px;
+    color: rgb(14, 15, 16);
+background-image:url('./istockphoto-1007768414-612x612.jpg') ;
+background-size: cover;
+background-position: center;
+font-size: large;
+}
+#btn-get-weather{
+    color: azure;
+    background-color: black;
+
+}
